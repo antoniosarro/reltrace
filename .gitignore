@@ -1,0 +1,6 @@
+.direnv
+.vscode
+
+bin
+
+recursive_backup_*
